@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Luis Felipe Mosquera</h1>
 <h3 align="center">Un entusiasta y apasionado desarrollador</h3>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 Mi primer Proyecto Bootcamp [Proyecto-Baloncesto](https://lucasfeli.github.io/Proyecto-Baloncesto/.)
 
 - 🤝 Mi Segundo Proyecto Bootcamp [animePreview](https://animepreview.herokuapp.com/)
@@ -8,6 +10,10 @@
 - 🤝 Mi Proyecto Final de Bootcamp [Motocycle-Fans](https://motorcycle-fans.netlify.app/)
 
 - 📫 How to reach me **felipe298@gmail.com**
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
