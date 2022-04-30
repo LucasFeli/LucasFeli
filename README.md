@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Luis Felipe Mosquera</h1>
-<h3 align="center">Un entusiasta y apasionado desarrollador</h3>
+
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
