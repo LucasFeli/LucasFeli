@@ -5,9 +5,7 @@
 
 - 🔭 Mi primer Proyecto Bootcamp [Proyecto-Baloncesto](https://lucasfeli.github.io/Proyecto-Baloncesto/.)
 
-- 🤝 Mi Segundo Proyecto Bootcamp [animePreview](https://animepreview.herokuapp.com/)
 
-- 🤝 Mi Proyecto Final de Bootcamp [Motocycle-Fans](https://motorcycle-fans.netlify.app/)
 
 - 📫 How to reach me **felipe298@gmail.com**
 
